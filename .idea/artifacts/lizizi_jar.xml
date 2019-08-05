@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="lizizi:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lizizi_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lizizi.jar">
+        <element id="module-output" name="lizizi" />
+      </element>
+    </root>
+  </artifact>
+</component>

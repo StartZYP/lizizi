@@ -1,0 +1,5 @@
+name: Lizizi
+main: com.github.qq44920040.github.lizizi.main
+version: 1.0
+commands:
+  Lizizi:
